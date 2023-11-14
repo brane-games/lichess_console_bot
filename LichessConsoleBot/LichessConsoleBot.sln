@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LichessConsoleBot", "LichessConsoleBot.csproj", "{491757C3-1A59-4F09-BCB4-6E995851DB90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{491757C3-1A59-4F09-BCB4-6E995851DB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491757C3-1A59-4F09-BCB4-6E995851DB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491757C3-1A59-4F09-BCB4-6E995851DB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491757C3-1A59-4F09-BCB4-6E995851DB90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEEBB7D1-731F-4F2A-8F61-020E57C8EFF9}
+	EndGlobalSection
+EndGlobal
